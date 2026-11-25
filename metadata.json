@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Gift",
+  "description": "An interactive birthday surprise app with candle blowing, wish making, cake cutting, and a scrollable birthday letter with photos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

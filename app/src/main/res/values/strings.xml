@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Birthday Gift</string>
+    <string name="cd_celebration_banner">Festive birthday bunting and celebration sparkles</string>
+    <string name="cd_cake_candles">Interactive birthday cake with lit candles</string>
+    <string name="cd_cake_cutting">Interactive birthday cake ready to be sliced</string>
+    <string name="cd_memory_photo">Birthday memory photo</string>
+    <string name="cd_add_photo">Add photo to letter</string>
+    <string name="cd_personalize">Personalize gift</string>
+    <string name="cd_replay">Replay surprise</string>
+    <string name="cd_back">Go back</string>
+    <string name="cd_delete_item">Remove item</string>
+    <string name="cd_edit_item">Edit item</string>
+    <string name="stage_welcome_badge">A BIRTHDAY SURPRISE</string>
+    <string name="stage_welcome_cta">Light the Candles</string>
+    <string name="stage_candles_title">Make a Wish &amp; Blow!</string>
+    <string name="stage_candles_subtitle">Tap each candle flame or hold the button below to blow them all out</string>
+    <string name="stage_candles_hold_blow">Hold to Blow</string>
+    <string name="stage_candles_mic_on">Listening for your blow…</string>
+    <string name="stage_candles_mic_off">Use Mic to Blow</string>
+    <string name="stage_wish_title">Close Your Eyes &amp; Make a Wish</string>
+    <string name="stage_wish_hint">Whisper your birthday wish here (optional)…</string>
+    <string name="stage_wish_send">Send Wish to the Stars</string>
+    <string name="stage_wish_skip">Skip &amp; Cut the Cake</string>
+    <string name="stage_wish_sent">Your wish is glowing among the stars</string>
+    <string name="stage_cut_title">Time to Cut the Cake!</string>
+    <string name="stage_cut_subtitle">Swipe across the dotted line on the cake to cut your birthday slice</string>
+    <string name="stage_cut_tap_fallback">Cut a Slice</string>
+    <string name="stage_cut_done_title">First Slice Is Yours!</string>
+    <string name="stage_cut_open_letter">Open Your Birthday Letter</string>
+    <string name="stage_letter_add_photo">Add Photo</string>
+    <string name="stage_letter_add_memory_here">Add a photo memory</string>
+    <string name="stage_letter_add_note">Add Paragraph</string>
+    <string name="stage_letter_read">Read Letter</string>
+    <string name="stage_letter_pause_read">Pause Reading</string>
+    <string name="cd_read_letter">Toggle slow auto-scroll to read the letter</string>
+</resources>
